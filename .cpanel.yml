@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/FranFran-Final/
+    - export DEPLOYPATH=/home/repositories/FranFran-Final/
     - /bin/cp -R images $DEPLOYPATH
